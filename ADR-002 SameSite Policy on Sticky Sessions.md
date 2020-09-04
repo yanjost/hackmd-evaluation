@@ -1,5 +1,8 @@
 # ADR-002 Sticky sessions issue
 
+[![hackmd-github-sync-badge](https://hackmd.io/Q0gN1ezDS4-IoEAMKG8EZw/badge)](https://hackmd.io/Q0gN1ezDS4-IoEAMKG8EZw)
+
+
 ## Issue
 
 Recently Chrome changed their default SameSite policy to Lax.
